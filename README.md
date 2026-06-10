@@ -1,2 +1,10 @@
-# rag_chatbot
-RAG Chatbot made using Python, Ollama, LangChain, Tav
+# RAG Chatbot
+RAG Chatbot made using Python
+\
+\
+Tech stack:
+- LLM: Ollama
+- Vector Database: ChromaDB
+- Framework: LangChain
+- Information retrieval: Tavily API
+- Interface: Gradio
