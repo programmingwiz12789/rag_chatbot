@@ -8,3 +8,8 @@ Tech stack:
 - Framework: LangChain
 - Information retrieval: Tavily API
 - Interface: Gradio
+
+Create a Tavily API account using the link below and get an API key:
+\
+\
+https://www.tavily.com/
