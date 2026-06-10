@@ -9,7 +9,7 @@ Tech stack:
 - Information retrieval: Tavily API
 - Interface: Gradio
 
-Create a Tavily API account using the link below and get a Tavily API key:
+Create a Tavily API account using the link below and get a Tavily API Key:
 \
 \
 https://www.tavily.com/
