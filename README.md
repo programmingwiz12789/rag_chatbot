@@ -1,5 +1,5 @@
 # RAG Chatbot
-RAG Chatbot made using Python
+RAG Chatbot in Python
 \
 \
 Tech stack:
